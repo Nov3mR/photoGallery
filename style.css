@@ -33,7 +33,6 @@ body{
   width: 100%;
   vertical-align: middle;
   opacity: 0.9;
-  filter: grayscale(100%);
 }
 
 .column img:hover{
